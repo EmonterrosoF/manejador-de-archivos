@@ -1,0 +1,7 @@
+{
+    "nombre":"pedro", 
+    "apellido": "Arias", 
+    "edad": 58, 
+    "salario": 2500, 
+    "activo": true
+  }
